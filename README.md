@@ -118,18 +118,26 @@ Interactive Filters: Users can filter by time, complaint type, or region to dive
 
 ## Insights:
 Trends Over Time: Complaints fluctuate, with peaks indicating specific issues or events.
+
 Common Issues: Billing problems, fraud, and customer service are frequent complaint topics.
+
 Geographical Patterns: Certain regions have higher complaint volumes, signaling potential service gaps.
+
 Sentiment: Most complaints are negative, highlighting dissatisfaction that needs addressing.
+
 Response Times: Faster resolution times could improve customer satisfaction and reduce repeat complaints.
 
 
 
 
 ## Conclusions:
+
 Focus Areas: Credit card companies should prioritize addressing common issues like billing and fraud.
+
 Customer Satisfaction: Negative sentiment indicates a need for better customer service and faster complaint resolution.
+
 Regional Strategy: Companies should focus on regions with higher complaint volumes.
+
 Continuous Monitoring: Ongoing tracking of complaints helps companies stay proactive and improve customer experiences.
 
 
